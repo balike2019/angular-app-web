@@ -1,0 +1,33 @@
+.main-header{
+width: 110%;
+height: 100px;
+background-color:rgb(218,167,40);
+padding: 0 1.5rem;
+}
+.main-header-nav{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.main-header-item-list{
+
+height: 100%;
+    display: flex;
+    align-items: center;
+}
+.main-header-item{
+
+margin: 0 20px;
+   
+}
+.main-header-item a {
+    text-decoration: none;
+    color: blue;
+
+}
+.product-header{
+    color:rgb(218,167,40);
+    margin: auto;
+    text-align: center;
+    max-width:90%;
+}
